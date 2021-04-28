@@ -1,0 +1,14 @@
+{
+  "cars": [
+    {
+      "ikman": "https://ikman.lk/en/ads/sri-lanka/cars",
+      "riyasewana": "https://riyasewana.com/search/cars"
+    }
+  ],
+  "bikes": [
+    {
+      "ikman": "https://ikman.lk/en/ads/sri-lanka/motorbikes-scooters",
+      "riyasewana": "https://riyasewana.com/search/motorcycles"
+    }
+  ]
+}
